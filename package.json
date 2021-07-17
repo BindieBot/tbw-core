@@ -33,7 +33,7 @@
   "dependencies": {
     "@arkecosystem/core-interfaces": "2.7.25",
     "bignumber.js": "9.0.1",
-    "firebase": "7.24.0",
+    "firebase": "8.7.1",
     "firebase-admin": "9.11.0",
     "fireorm": "0.22.0",
     "moment": "2.29.1",
